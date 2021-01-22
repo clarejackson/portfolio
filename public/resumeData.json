@@ -1,50 +1,50 @@
 {
   "main": {
     "name":"Clare Jackson",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "occupation":"Developer",
+    "description":"As a student a Lambda School studying Full Stack Web Development, I am excited to learn and grow with the exciting advancements in my field. I am ready to work with a team that will make an impact in the forward movement of our society and the world.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"I have moved my way through learning HTML, CSS, Javascript, React, Redux, Context API and various testing, like Jest, RTL and Cypress. In working with H&R Block as a Field Systems Technician, I have experience with network systems, routers, POS systems, servers and more office hardware, plus remote troubleshooting.",
+    "contactmessage":"I am so excited to start researching my first projects. Any ideas you are excited about too!",
+    "email": "clare.jackson.codes@gmail.com",
+    "phone": "864.913.6279",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"3106 Bethel Road",
+      "city":"Simpsonville",
+      "state":"SC",
+      "zip": "29681"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://",
+    "resumedownload":"http://",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/clare.jackson.353",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/ClareJa31828185",
         "className":"fa fa-twitter"
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
+        "url":"http://",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/clare-jackson-codes/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/clare.jackson.213/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/clarejackson",
         "className":"fa fa-github"
       },
       {
@@ -90,7 +90,7 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
+        "name":"HTML",
         "level":"55%"
       },
       {
@@ -102,15 +102,15 @@
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":"Redux",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"CRUD",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
+        "name":"Javascript",
         "level":"80%"
       }
     ]
@@ -121,43 +121,43 @@
         "title":"Canadian Wanderlust",
         "category":"My Travel Blog for my post-university travels",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://"
       },
       {
         "title":"Fury Fighting Gear",
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://"
       },
       {
         "title":"Original Thai Food",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"http://"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://"
       },
       {
         "title":"Smirkspace",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"http://"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Clare is great!",
+        "user":"Mom"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Clare is always my first call when anything needs to be done in that district. Being an FST, she is knowledgeable regarding current issues, and as an OS, she is willing to get things done. Lately she has been challenging herself to do more plan ahead work to set a schedule for work we know that needs to be done and being flexible enough to handle the extras that pop-up. She has done an amazing job of balancing life and work during the pandemic and consistently rises to the task. I could not succeed without her. Clare is a shining example of our company goals of Better Together, Determined, Passionate and Creative. Thank you to everything that you do!",
+        "user":"Cheryl Rodriguez"
       }
     ]
   }
